@@ -10,7 +10,7 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-      - uses: actions/stale@v9
+      - uses: actions/stale@v10
         with:
           stale-issue-message: "Esta issue foi marcada como obsoleta pois não teve atividade recente. Ela será fechada em 7 dias se não houver novas interações. 😴"
           stale-pr-message: "Este PR foi marcado como obsoleto. Por favor, atualize-o se ainda for relevante. 🛠️"

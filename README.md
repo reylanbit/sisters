@@ -38,9 +38,9 @@
 
 ### 📌 Projetos em destaque
 > Substitua pelos seus repositórios
-- [projeto-1](#) — Landing page em Next.js + Tailwind com 98 Lighthouse
-- [projeto-2](#) — Dashboard React com integração Google Maps API
-- [projeto-3](#) — Component library com Framer Motion
+- [projeto-1]([#](https://github.com/reylanbit/the-one)) — Landing page em Next.js + Tailwind com 98 Lighthouse
+- [projeto-2]([#](https://github.com/reylanbit/handwritter)) — Dashboard React com integração Google Maps API
+- [projeto-3]([#](https://github.com/reylanbit/drip-store)) — Component library com Framer Motion
 
 ---
 

@@ -63,14 +63,16 @@
 ---
 
 ### 📌 Projetos em destaque
+
 <p align="center">
   <a href="https://github.com/reylanbit/the-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=the-one&theme=default" alt="the-one project" />
-  </a>
-  <a href="https://github.com/reylanbit/handwritter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=handwritter&theme=default" alt="handwritter project" />
+    <img src="https://raw.githubusercontent.com/reylanbit/the-one/main/assets/demo.gif" width="100%" alt="the-one demo" />
   </a>
 </p>
+
+- [**the-one**](https://github.com/reylanbit/the-one) — SortViz: Visualizador interativo de algoritmos de ordenação em Python.
+- [**handwritter**](https://github.com/reylanbit/handwritter) — Gerador de PDFs que simulam redação manuscrita com realismo.
+- [**drip-store**](https://github.com/reylanbit/drip-store) — E-commerce full-stack com React + Vite + Tailwind.
 
 ---
 

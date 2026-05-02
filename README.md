@@ -40,12 +40,14 @@
 - [**the-one**](https://github.com/reylanbit/the-one) — SortViz: visualizador interativo de algoritmos de ordenação em Python (Pygame) com animações e métricas em tempo real
 - [**handwritter**](https://github.com/reylanbit/handwritter) — Gera PDFs que simulam redação manuscrita com papel pautado e jitter realista
 - [**drip-store**](https://github.com/reylanbit/drip-store) — E-commerce em React + Vite + Tailwind com rotas, API real e deploy pronto
+
 <a href="https://github.com/reylanbit/the-one">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=the-one&theme=tokyonight" />
 </a>
 <a href="https://github.com/reylanbit/handwritter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=handwritter&theme=tokyonight" />
 </a>
+
 ---
 
 ### 🚀 Serviço: README Profissional em 24h

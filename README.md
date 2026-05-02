@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Frontend%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3178C6&height=200&section=header&text=Frontend%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Header" />
 </p>
 
 <p align="center">
@@ -54,27 +54,23 @@
 
 ### 📊 Performance & Analytics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reylanbit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reylanbit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reylanbit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reylanbit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<details>
-  <summary>📈 Ver gráfico de atividades detalhado</summary>
-  <br />
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=reylanbit&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vercel,npm,vite,figma,postman,vscode" alt="Tools" />
+</p>
 
 ---
 
 ### 📌 Projetos em destaque
 <p align="center">
   <a href="https://github.com/reylanbit/the-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=the-one&theme=tokyonight" alt="the-one project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=the-one&theme=radical" alt="the-one project" />
   </a>
   <a href="https://github.com/reylanbit/handwritter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=handwritter&theme=tokyonight" alt="handwritter project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=handwritter&theme=radical" alt="handwritter project" />
   </a>
 </p>
 

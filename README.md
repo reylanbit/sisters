@@ -14,12 +14,13 @@
 <p align="center">
   <a href="https://wa.me/5585985322374"><img src="https://img.shields.io/badge/WhatsApp-Fale_comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://www.linkedin.com/in/darlann-santos-187809124/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contato@reylanbit.dev"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://reylanbit.dev"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
+
 > "Transformo complexidade técnica em experiências de usuário memoráveis."
 
 - **3+ anos** transformando ideias em produtos web de alta performance.
@@ -29,10 +30,12 @@
 
 ---
 
-### 🚀 Serviço Estrela: README Profissional
+## 🚀 Serviço Estrela: README Profissional
+
 *Seu GitHub é seu cartão de visitas. Vamos torná-lo irresistível para recrutadores.*
 
-#### 🛠️ Como funciona?
+### 🛠️ Como funciona?
+
 1. **Briefing**: Analiso seu perfil, projetos e objetivos de carreira.
 2. **Criação**: Desenvolvo um design exclusivo com badges, estatísticas e SEO.
 3. **Entrega**: Em até 24h seu perfil estará transformado.
@@ -50,7 +53,8 @@
 
 ---
 
-### 📊 Performance & Analytics
+## 📊 Performance & Analytics
+
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=reylanbit&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reylanbit&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
@@ -62,7 +66,7 @@
 
 ---
 
-### 📌 Projetos em destaque
+## 📌 Projetos em destaque
 
 <p align="center">
   <a href="https://github.com/reylanbit/the-one">
@@ -76,7 +80,8 @@
 
 ---
 
-### 🤝 Conecte-se comigo
+## 🤝 Conecte-se comigo
+
 <p align="center">
   <a href="https://linkedin.com/in/darlann-santos-187809124/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://wa.me/5585985322374"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>

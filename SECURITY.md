@@ -2,7 +2,8 @@
 
 ## Versões Suportadas
 
-Como este é um repositório de perfil e templates, a segurança foca principalmente na integridade dos links e automações.
+Como este é um repositório de perfil e templates, a segurança foca principalmente na
+integridade dos links e automações.
 
 | Versão | Suportada |
 | :--- | :--- |
@@ -11,8 +12,9 @@ Como este é um repositório de perfil e templates, a segurança foca principalm
 
 ## Reportando uma Vulnerabilidade
 
-Se você encontrar alguma vulnerabilidade de segurança (ex: links maliciosos, dependências de ações vulneráveis), por favor não abra uma issue pública.
+Se você encontrar alguma vulnerabilidade de segurança (ex: links maliciosos,
+dependências de ações vulneráveis), por favor não abra uma issue pública.
 
-Envie um e-mail diretamente para: **contato@reylanbit.dev**
+Envie um e-mail diretamente para: <contato@reylanbit.dev>
 
 Agradecemos sua ajuda para manter este perfil seguro!

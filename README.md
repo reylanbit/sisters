@@ -37,11 +37,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=reylanbit&theme=github-light&hide_border=true">
 
 ### 📌 Projetos em destaque
-> Substitua pelos seus repositórios
-- [projeto-1]([#](https://github.com/reylanbit/the-one)) — Landing page em Next.js + Tailwind com 98 Lighthouse
-- [projeto-2]([#](https://github.com/reylanbit/handwritter)) — Dashboard React com integração Google Maps API
-- [projeto-3]([#](https://github.com/reylanbit/drip-store)) — Component library com Framer Motion
-
+- [**the-one**](https://github.com/reylanbit/the-one) — SortViz: visualizador interativo de algoritmos de ordenação em Python (Pygame) com animações e métricas em tempo real
+- [**handwritter**](https://github.com/reylanbit/handwritter) — Gera PDFs que simulam redação manuscrita com papel pautado e jitter realista
+- [**drip-store**](https://github.com/reylanbit/drip-store) — E-commerce em React + Vite + Tailwind com rotas, API real e deploy pronto
+<a href="https://github.com/reylanbit/the-one">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=the-one&theme=tokyonight" />
+</a>
+<a href="https://github.com/reylanbit/handwritter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=handwritter&theme=tokyonight" />
+</a>
 ---
 
 ### 🚀 Serviço: README Profissional em 24h

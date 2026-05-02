@@ -1,14 +1,14 @@
 # Guia de Contribuição
 
-Obrigado por se interessar em contribuir para este projeto! Como um desenvolvedor focado
-em qualidade, valorizo contribuições que mantenham o padrão de excelência.
+Obrigado por se interessar em contribuir para este projeto! Como um desenvolvedor
+focado em qualidade, valorizo contribuições que mantenham o padrão de excelência.
 
 ## Como Contribuir
 
 1. **Reportando Bugs**: Use o sistema de Issues para reportar problemas. Seja
    específico e inclua passos para reproduzir.
-2. **Sugerindo Melhorias**: Se você tem uma ideia para um novo layout de README ou uma
-   nova automação, abra uma Issue para discutirmos.
+2. **Sugerindo Melhorias**: Se você tem uma ideia para um novo layout de README ou
+   uma nova automação, abra uma Issue para discutirmos.
 3. **Pull Requests**:
    - Faça o fork do repositório.
    - Crie uma branch para sua alteração (`git checkout -b feature/nova-melhoria`).
@@ -23,4 +23,4 @@ em qualidade, valorizo contribuições que mantenham o padrão de excelência.
 
 ---
 
-### Darlann Douglas • Frontend Developer
+## Darlann Douglas • Frontend Developer

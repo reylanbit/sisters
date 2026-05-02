@@ -92,7 +92,7 @@
   <img src="https://komarev.com/ghpvc/?username=reylanbit&color=blue&style=flat-square&label=VISITAS" alt="Profile Views" />
 </p>
 
-<!-- 
-  💡 DICA SÊNIOR: Se alguma imagem ou estatística não carregar, pode ser devido ao cache do GitHub (Camo) 
+<!--
+  💡 DICA SÊNIOR: Se alguma imagem ou estatística não carregar, pode ser devido ao cache do GitHub (Camo)
   ou bloqueadores de anúncios. Tente recarregar a página sem cache (Ctrl + F5).
 -->

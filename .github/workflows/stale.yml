@@ -1,0 +1,15 @@
+name: Close Stale Issues
+on:
+  schedule:
+    - cron: "30 1 * * *"
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v9
+        with:
+          stale-issue-message: "Esta issue foi marcada como obsoleta pois não teve atividade recente. Ela será fechada em 7 dias se não houver novas interações. 😴"
+          stale-pr-message: "Este PR foi marcado como obsoleto. Por favor, atualize-o se ainda for relevante. 🛠️"
+          days-before-stale: 30
+          days-before-close: 7

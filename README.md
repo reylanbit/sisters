@@ -1,11 +1,9 @@
 # Darlann Douglas • Frontend Developer
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,git,vercel" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=3178C6&height=200&section=header&text=Frontend%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Header" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Specialist;Building+the+future+with+code" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -54,12 +52,12 @@
 
 ### 📊 Performance & Analytics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reylanbit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reylanbit&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reylanbit&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reylanbit&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vercel,npm,vite,figma,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,git,vercel,figma,vscode" alt="Tech Stack" />
 </p>
 
 ---
@@ -67,10 +65,10 @@
 ### 📌 Projetos em destaque
 <p align="center">
   <a href="https://github.com/reylanbit/the-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=the-one&theme=radical" alt="the-one project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=the-one&theme=default" alt="the-one project" />
   </a>
   <a href="https://github.com/reylanbit/handwritter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=handwritter&theme=radical" alt="handwritter project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=handwritter&theme=default" alt="handwritter project" />
   </a>
 </p>
 

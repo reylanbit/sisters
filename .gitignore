@@ -1,0 +1,19 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.lock
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node (just in case)
+node_modules/
+dist/
+build/
+.env
+.env.*

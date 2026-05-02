@@ -1,85 +1,92 @@
 # Darlann Douglas • Frontend Developer
 
-<p align="left">
-  Construindo o futuro, uma linha de código por vez. 🚀<br>
-  Especialista em React, Next.js e interfaces que convertem. Fortaleza, CE.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,git,vercel" alt="Tech Stack" />
 </p>
 
-<p>
-  <a href="https://wa.me/5585985322374"><img src="https://img.shields.io/badge/WhatsApp-Fale_comigo-25D366?style=flat&logo=whatsapp"></a>
-  <a href="https://linkedin.com/in/reylanbit"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat&logo=linkedin"></a>
-  <a href="mailto:contato@reylanbit.dev"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=flat&logo=gmail"></a>
-  <img src="https://komarev.com/ghpvc/?username=reylanbit&color=blue">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Frontend%20Engineer&fontSize=60&animation=fadeIn&fontAlignY=38" alt="Header" />
+</p>
+
+<p align="center">
+  <b>Construindo o futuro, uma linha de código por vez. 🚀</b><br>
+  Especialista em React, Next.js e interfaces de alta conversão. Fortaleza, CE.
+</p>
+
+<p align="center">
+  <a href="https://wa.me/5585985322374"><img src="https://img.shields.io/badge/WhatsApp-Fale_comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/darlann-santos-187809124/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contato@reylanbit.dev"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
-- 3+ anos criando produtos web com foco em performance e UX
-- Stack principal: JavaScript/TypeScript, React, Next.js, Tailwind
-- Atualmente ajudando devs a transformar GitHub em portfólio que gera entrevistas
+> "Transformo complexidade técnica em experiências de usuário memoráveis."
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=fff)
-
-### 📊 GitHub Analytics
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=reylanbit&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reylanbit&layout=compact&hide_border=true">
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reylanbit&theme=github-light&hide_border=true">
-
-### 📌 Projetos em destaque
-- [**the-one**](https://github.com/reylanbit/the-one) — SortViz: visualizador interativo de algoritmos de ordenação em Python (Pygame) com animações e métricas em tempo real
-- [**handwritter**](https://github.com/reylanbit/handwritter) — Gera PDFs que simulam redação manuscrita com papel pautado e jitter realista
-- [**drip-store**](https://github.com/reylanbit/drip-store) — E-commerce em React + Vite + Tailwind com rotas, API real e deploy pronto
-
-<a href="https://github.com/reylanbit/the-one">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=the-one&theme=tokyonight" />
-</a>
-<a href="https://github.com/reylanbit/handwritter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=handwritter&theme=tokyonight" />
-</a>
+- **3+ anos** transformando ideias em produtos web de alta performance.
+- **Foco em UX/UI** e interfaces que não apenas funcionam, mas convertem.
+- **Especialista em Ecossistema React**: Next.js, Tailwind, TypeScript e Framer Motion.
+- Atualmente ajudando desenvolvedores a transformar o GitHub em um **portfólio magnético**.
 
 ---
 
-### 🚀 Serviço: README Profissional em 24h
-Transformo seu perfil em vitrine para recrutadores.
+### 🚀 Serviço Estrela: README Profissional
+*Seu GitHub é seu cartão de visitas. Vamos torná-lo irresistível para recrutadores.*
 
-**Essencial — R$ 60** (~~R$120~~) • README completo com badges e stats  
-**PRO — R$ 200** • + consultoria LinkedIn + 30 dias de ajustes
+#### 🛠️ Como funciona?
+1. **Briefing**: Analiso seu perfil, projetos e objetivos de carreira.
+2. **Criação**: Desenvolvo um design exclusivo com badges, estatísticas e SEO.
+3. **Entrega**: Em até 24h seu perfil estará transformado.
 
-📲 [Agendar pelo WhatsApp](https://wa.me/5585985322374)
-
-# ✨ Darlann Douglas — README que Atrai Recrutadores
+| Plano | O que inclui | Investimento |
+| :--- | :--- | :--- |
+| **Essencial** | README completo com badges, stats e design moderno. | ~~R$ 120~~ **R$ 60** |
+| **PRO** | README + Consultoria de LinkedIn + 30 dias de ajustes. | **R$ 200** |
 
 <p align="center">
-  <b>Frontend Developer | Especialista em GitHub Profile Design</b><br>
-  Transformo perfis comuns em vitrines profissionais que geram entrevistas — entrega em até 24h.
+  <a href="https://wa.me/5585985322374">
+    <img src="https://img.shields.io/badge/QUERO_MEU_README_AGORA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call to Action" />
+  </a>
+</p>
+
+---
+
+### 📊 Performance & Analytics
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reylanbit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reylanbit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<details>
+  <summary>📈 Ver gráfico de atividades detalhado</summary>
+  <br />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=reylanbit&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
+  </p>
+</details>
+
+---
+
+### 📌 Projetos em destaque
+<p align="center">
+  <a href="https://github.com/reylanbit/the-one">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=the-one&theme=tokyonight" alt="the-one project" />
+  </a>
+  <a href="https://github.com/reylanbit/handwritter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reylanbit&repo=handwritter&theme=tokyonight" alt="handwritter project" />
+  </a>
+</p>
+
+---
+
+### 🤝 Conecte-se comigo
+<p align="center">
+  <a href="https://linkedin.com/in/darlann-santos-187809124/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/5585985322374"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:contato@reylanbit.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <a href="https://wa.me/5585985322374"><img src="https://img.shields.io/badge/WhatsApp-85_98532_2374-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/reylanbit"><img src="https://img.shields.io/badge/LinkedIn-Darlann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=reylanbit&color=blue&style=flat-square&label=VISITAS" alt="Profile Views" />
 </p>
-
-## 🛠️ Stack Principal
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,git,vercel" />
-
-## 📊 Performance no GitHub
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=reylanbit&show_icons=true&theme=tokyonight&hide_border=true">
-
-## 🚀 Meu Serviço Estrela
-| Plano | Investimento |
-| :--- | :--- |
-| **Essencial** | ~~R$ 120~~ **R$ 60** |
-| **PRO** | **R$ 200** (30 dias suporte) |
-
-📲 [wa.me/5585985322374](https://wa.me/5585985322374)

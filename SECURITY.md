@@ -15,6 +15,6 @@ integridade dos links e automações.
 Se você encontrar alguma vulnerabilidade de segurança (ex: links maliciosos,
 dependências de ações vulneráveis), por favor não abra uma issue pública.
 
-Envie um e-mail diretamente para: <mailto:contato@reylanbit.dev>
+Envie um e-mail diretamente para: <mailto:darlannasa@gmail.com>
 
 Agradecemos sua ajuda para manter este perfil seguro!

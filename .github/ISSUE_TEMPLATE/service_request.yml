@@ -1,8 +1,8 @@
-name: 🚀 Solicitação de Serviço
-about: Solicite a criação ou refatoração do seu README profissional.
+name: "🚀 Solicitação de Serviço"
+description: Solicite a criação ou refatoração do seu README profissional.
 title: "[SERVIÇO] - "
-labels: serviço, readme
-assignees: reylanbit
+labels: ["serviço", "readme"]
+assignees: ["reylanbit"]
 
 body:
   - type: markdown
@@ -14,22 +14,22 @@ body:
     attributes:
       label: Qual plano você tem interesse?
       options:
-        - Essencial (R$ 60)
-        - PRO (R$ 200)
+        - "Essencial (R$ 60)"
+        - "PRO (R$ 200)"
     validations:
       required: true
   - type: input
     id: github-user
     attributes:
       label: Qual o seu usuário do GitHub?
-      placeholder: ex: seu-usuario
+      placeholder: "ex: seu-usuario"
     validations:
       required: true
   - type: textarea
     id: objetivos
     attributes:
       label: Quais seus principais objetivos com o novo perfil?
-      placeholder: ex: Atrair recrutadores para vagas de Frontend, mostrar meus projetos pessoais, etc.
+      placeholder: "ex: Atrair recrutadores para vagas de Frontend, mostrar meus projetos pessoais, etc."
     validations:
       required: true
   - type: checkboxes
@@ -37,5 +37,5 @@ body:
     attributes:
       label: Você já entrou em contato via WhatsApp?
       options:
-        - label: Sim, já estamos conversando.
-        - label: Não, vou entrar em contato agora.
+        - label: "Sim, já estamos conversando."
+        - label: "Não, vou entrar em contato agora."
